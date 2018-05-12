@@ -1,0 +1,31 @@
+_repo: Maggie-s-Wish_39125
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Miller, Dennis E.
+    gutenberg_agent_id: '39854'
+    url: http://www.gutenberg.org/2009/agents/39854
+covers:
+- cover_type: archival
+  image_path: 39125-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anderson, Marilyn D.
+    gutenberg_agent_id: '39853'
+    url: http://www.gutenberg.org/2009/agents/39853
+description: ''
+gutenberg_issued: '2012-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39125'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Horses -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+title: Maggie's Wish
+url: http://www.gutenberg.org/ebooks/39125
